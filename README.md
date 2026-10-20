@@ -1,6 +1,6 @@
 # Prophesee Event Camera + Polar H10 Synchronization
 
-This project records data from a **Prophesee EVK event camera** and a **Polar H10 heart-rate sensor** at the same time. Both data streams are timestamped using the laptop's monotonic clock, so they can be synchronized later.
+This project records and synchronizes data from a **Prophesee EVK event camera** and a **Polar H10 heart-rate sensor** simultaneously. Both data streams are timestamped, so they can be synchronized later.
 
 The main goal is to collect:
 
